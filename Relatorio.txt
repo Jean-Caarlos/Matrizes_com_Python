@@ -1,0 +1,33 @@
+==================== Relatorio POCCOBUS ======================= 
+Assentos ocupados: 
+Assento 5 - ocupado 
+Assento 10 - ocupado 
+Assento 15 - ocupado 
+
+Assentos disponiveis: 
+Assento 1 - disponivel 
+Assento 2 - disponivel 
+Assento 3 - disponivel 
+Assento 4 - disponivel 
+Assento 6 - disponivel 
+Assento 7 - disponivel 
+Assento 8 - disponivel 
+Assento 9 - disponivel 
+Assento 11 - disponivel 
+Assento 12 - disponivel 
+Assento 13 - disponivel 
+Assento 14 - disponivel 
+Assento 16 - disponivel 
+Assento 17 - disponivel 
+Assento 18 - disponivel 
+Assento 19 - disponivel 
+Assento 20 - disponivel 
+Assento 21 - disponivel 
+Assento 22 - disponivel 
+Assento 23 - disponivel 
+Assento 24 - disponivel 
+Assento 25 - disponivel 
+Assento 26 - disponivel 
+Assento 27 - disponivel 
+Assento 28 - disponivel 
+
